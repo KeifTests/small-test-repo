@@ -1,0 +1,3 @@
+[submodule "smaller-test-repo"]
+	path = smaller-test-repo
+	url = git@github.com:keifTests/smaller-test-repo
